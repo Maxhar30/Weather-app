@@ -20,3 +20,52 @@
 .App-link {
   color: #09d3ac;
 }
+.wi-sleet{
+  background-color: white;
+  -webkit-mask-image: url(./assets/wi-sleet.svg);
+  height: 200px;
+  width: 200px; 
+  background-repeat: no-repeat;
+}
+.wi-thunderstrom{
+  background-color: white;
+  -webkit-mask-image: url('./assets/wi-thunderstorm.svg');
+  height: 200px;
+  width: 200px;
+  background-repeat: no-repeat;
+}
+.wi-strom-shower{
+  background-color: white;
+  -webkit-mask-image: url('./assets/wi-storm-shower.svg');
+  height: 200px;
+  width: 200px;
+  background-repeat: no-repeat;
+}
+.wi-snow{
+  background-color: white;
+  -webkit-mask-image: url('./assets/wi-snow.svg');
+  height: 200px;
+  width: 200px;
+  background-repeat: no-repeat;
+}
+.wi-fog{
+  background-color: white;
+  -webkit-mask-image: url('./assets/wi-fog.svg');
+  height: 200px;
+  width: 200px;
+  background-repeat: no-repeat;
+}
+.wi-day-sunny{
+  background-color: white;
+  -webkit-mask-image: url('./assets/wi-day-sunny.svg');
+  height: 200px;
+  width: 200px; 
+  background-repeat: no-repeat;
+}
+.wi-day-fog{
+  background-color: white;
+  -webkit-mask-image: url('./assets/wi-day-fog.svg');
+  height: 200px;
+  width: 200px;
+  background-repeat: no-repeat;
+}
